@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RescueFramework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RescueFramework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

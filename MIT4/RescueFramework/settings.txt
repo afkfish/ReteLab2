@@ -1,0 +1,10 @@
+#Thu Oct 03 20:45:25 CEST 2024
+agent_count=3
+height=800
+heiht=940
+left=144
+map=Default.txt
+maximized=0
+speed=100
+top=165
+width=1248
